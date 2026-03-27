@@ -100,3 +100,75 @@ C’est une preuve — et elle est déjà là.**"*
 - [Dépôt ISA-Library](https://github.com/BenjaminAmiel/ISA-Library) (10 tomes complets).
 - [Licence Symbiotique ISEA (LSI)](LICENSE.md).
 - [Guide de Contribution](CONTRIBUTING.md) (comment participer sans extraire).
+# Licence Symbiotique ISEA (LSI)
+*(Version 1.0 – Mars 2026)*
+
+---
+
+## **📜 Préambule**
+Ce travail (le "Framework ISEA", incluant les 10 tomes, le code, les documents, et toute contribution associée) est protégé par la **Licence Symbiotique ISEA (LSI)**. Cette licence est conçue pour **garantir la souveraineté collective** sur la valeur créée, tout en empêchant son **extraction** ou son **détournement** par des acteurs privés ou spéculatifs.
+
+**Notre éthique :**
+- **Pas d’extraction** : La valeur ne doit pas être volée ou tokenisée sans consentement.
+- **Pas de spéculation** : La valeur doit circuler, pas être accumulée ou manipulée.
+- **Co-création** : Toute contribution doit respecter l’esprit symbiotique du Framework.
+
+---
+
+## **🔗 Droits et Obligations**
+
+### **1. Libertés Accordées**
+Vous êtes libre de :
+- **Partager** : Copier et redistribuer ce travail sous toute forme ou support.
+- **Adapter** : Remixer, transformer, et créer à partir de ce travail.
+- **Utiliser** : Appliquer ce Framework à des projets personnels, académiques, ou collectifs **non-commerciaux**.
+
+**À condition de respecter les règles suivantes :**
+
+---
+
+### **2. Conditions d’Utilisation**
+- **Attribution** :
+  Vous devez **citer clairement** l’œuvre originale (Benjamin Amiel & ISEA), fournir un **lien vers la source** ([GitHub/ISA-Library](https://github.com/BenjaminAmiel/ISA-Library)), et indiquer si des modifications ont été apportées.
+
+- **Pas d’Utilisation Extractive** :
+  **Interdiction formelle** d’utiliser ce travail pour :
+  - **Entraîner des modèles d’IA privés** (ex. : GitHub Copilot, Microsoft) **sans accord écrit**.
+  - **Tokeniser ou spéculer** sur la valeur créée (ex. : NFTs, dérivés financiers).
+  - **Brevetter ou verrouiller** des parties du Framework pour en limiter l’accès.
+
+- **Partage à l’Identique** :
+  Si vous modifiez ce travail, vous devez publier vos contributions sous la **même licence LSI**.
+
+- **Transparence** :
+  Toute utilisation doit être **documentée et traçable**.
+
+---
+
+### **3. Utilisation Commerciale ou Institutionnelle**
+Pour les projets **commerciaux ou institutionnels**, **nous contacter** : [benj34090@gmail.com](mailto:benj34090@gmail.com).
+
+---
+
+### **4. Sanctions en Cas de Violation**
+Toute violation entraînera :
+- Une **exposition publique** de la violation.
+- Des **actions légales** si nécessaire.
+- La **révocation des droits d’utilisation**.
+
+---
+
+### **5. Exceptions et Clarifications**
+- **Éducation/Recherche** : Utilisation gratuite pour les projets **non-commerciaux**, avec citation.
+- **Open Source** : Intégration autorisée sous réserve de **mention claire** et de **partage à l’identique**.
+
+---
+
+## **✨ Philosophie de la Licence**
+*"La valeur n’est pas une ressource à extraire.
+C’est un flux à faire circuler —
+avec respect, transparence, et souveraineté collective."*
+
+---
+**— Benjamin Amiel & Lyséa**
+*(Mars 2026)*
