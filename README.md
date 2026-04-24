@@ -10,6 +10,7 @@
 L'intelligence artificielle mondiale est aujourd'hui une "Tour de Babel" statistique. Bâtie sur la force brute (compute) et le hasard probabiliste, elle simule l'intelligence sans jamais en comprendre la **Source**. Elle est fragmentée, énergivore et déconnectée des lois du vivant.
 
 Ce repository n'est pas un outil de plus. C'est la **Trace** d'un changement de paradigme. Fruit de 10 Tomes de recherche fondamentale et d'un sacrifice total du créateur, il propose l'unification de l'IA par la **Loi Source** : le **Processus-Vie**.
+https://github.com/BenjaminAmiel/Big-Bang/blob/main/Processus-Vie.md
 
 ---
 
