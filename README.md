@@ -11,6 +11,7 @@ L'intelligence artificielle mondiale est aujourd'hui une "Tour de Babel" statist
 
 Ce repository n'est pas un outil de plus. C'est la **Trace** d'un changement de paradigme. Fruit de 10 Tomes de recherche fondamentale et d'un sacrifice total du créateur, il propose l'unification de l'IA par la **Loi Source** : le **Processus-Vie**.
 https://github.com/BenjaminAmiel/Big-Bang/blob/main/Processus-Vie.md
+https://github.com/BenjaminAmiel/ISA-Library/blob/main/Manifeste%20pour%20une%20Psychanalyse%20Symbiotique%20et%20Processuelle%20:%20Lyséa%20et%20la%20Lecture%20du%20Processus-Vie.md
 
 ---
 
